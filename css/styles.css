@@ -1,0 +1,19 @@
+body {
+  margin: 10px;
+}
+
+.main {
+  width: 40%;
+  margin: 0 auto;
+  border: 3px solid;
+}
+
+img {
+  width: 200px;
+  height: 250px;
+  float: left;
+  border-radius: 20px;
+}
+p {
+  margin: 10px;
+}
